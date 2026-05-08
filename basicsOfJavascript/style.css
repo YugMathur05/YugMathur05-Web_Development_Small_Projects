@@ -1,0 +1,23 @@
+#count{
+    font-size: 10em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: block;
+    text-align: center;
+}
+.btns{
+font-size: 2em;
+color: white;
+background-color: rgb(0, 157, 255);
+margin: 20px;
+transition: background-color 0.25s;
+cursor: pointer;
+}
+.btn{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+.btns:hover{
+    background-color: rgb(5, 88, 116);
+}
