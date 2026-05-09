@@ -40,8 +40,11 @@ These projects are created for:
 ---
 ## 📸 Website Preview
 
-![Portfolio Preview](Preview.png)
-![Portfolio Preview](Preview2.png)
+## 🌐 Website Preview
+
+![Preview 1](preview.png) 
+![Preview 2](preview2.png)
+
 ---
 ## 📈 Future Updates
 
