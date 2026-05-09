@@ -38,9 +38,7 @@ These projects are created for:
 - Learning through small real-world projects
 
 ---
-## 📸 Website Preview
-
-## 🌐 Website Preview
+## 📸ScreenShots
 
 ![Preview 1](preview.png) 
 ![Preview 2](preview2.png)
