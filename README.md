@@ -38,7 +38,11 @@ These projects are created for:
 - Learning through small real-world projects
 
 ---
+## 📸 Website Preview
 
+![Portfolio Preview](Preview.png)
+![Portfolio Preview](Preview2.png)
+---
 ## 📈 Future Updates
 
 More mini projects and practice exercises will be added regularly as I continue my web development journey.
